@@ -1,0 +1,23 @@
+{
+    
+    "companyName": "SAP",
+    "contactPerson": "Raj Sharma",
+    "firstName": "Sunil",
+    "lastName": "Padhy",
+    "status": "A",
+    "website": "www.sap.co.us",
+    "email": "Sunil@gmail.com",
+    "regdate": "2023-07-06T11:50:38.358+00:00"
+}
+
+{
+    
+    "companyName": "EMC2",
+    "contactPerson": "Kunal Sharma",
+    "firstName": "Punit",
+    "lastName": "Padhy",
+    "status": "A",
+    "website": "www.emc2.co.us",
+    "email": "Punit@gmail.com",
+    "regdate": "2023-07-06T11:50:38.358+00:00"
+}
